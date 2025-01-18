@@ -2,7 +2,7 @@
 This Java-based project is designed to manage equipment borrowing in a shop. Key features include:
 
 Equipment Registration:
-Users can register various equipment (e.g., smart glasses, smartwatches) along with their set numbers,quantities and availability dates.
+Users can register various equipment (e.g., smart glasses, smartwatches) along with their set numbers, quantities and availability dates.
 
 Member Registration:
 Members are enrolled with their details and registration dates.
